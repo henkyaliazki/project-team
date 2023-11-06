@@ -88,14 +88,10 @@ ul {
   grid-gap: 30px;
 }
 
-<<<<<<< HEAD
-/* start contact us */
-.container {
-=======
+
 
 /* start contact us */
 .container-contact-us {
->>>>>>> 47750d3952227374a01a8aaba875ca7e7990b2b9
     max-width: 400px;
     margin: 6em auto;
     padding: 20px;

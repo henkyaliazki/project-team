@@ -1,16 +1,10 @@
+
 /* List CSS */
 .mb-1 {
   margin-bottom: 1rem !important;
 }
-.putih {
-  color: white;
-  text-decoration: none;
-}
 .lh-40 {
   line-height: 40px;
-}
-.mb-1 {
-  margin-bottom: 1rem !important;
 }
 .font-30 {
   font-size: 30px !important;
@@ -32,9 +26,6 @@
 .lh-30 {
   line-height: 30px;
 }
-.mb-1 {
-  margin-bottom: 1rem !important;
-}
 .bold {
   font-weight: bold;
 }
@@ -48,9 +39,6 @@
   color: #0033a0 !important;
   margin-top: 20px;
 }
-.mb-1 {
-  margin-bottom: 1rem !important;
-}
 .font-18 {
   font-size: 18px !important;
 }
@@ -58,19 +46,11 @@
 ul {
   list-style-type: disc;
 }
-.font-18 {
-  font-size: 18px !important;
-}
 
 .set-margin {
   margin-left: 200px;
   margin-right: 0px;
   margin-top: 200px;
-}
-
-.set-padding {
-  padding-left: 0px;
-  padding-right: 0px;
 }
 
 .tablle-core {
@@ -95,12 +75,9 @@ ul {
   font-weight: 500;
 }
 
-.font-18 {
-  font-size: 18px !important;
-}
-
 .putih {
   color: #fff;
+  text-decoration: none;
   text-align: center;
 }
 .grid {
@@ -110,3 +87,53 @@ ul {
   align-items: center;
   grid-gap: 30px;
 }
+
+
+/* start contact us */
+.container-contact-us {
+    max-width: 400px;
+    margin: 6em auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+/* end contact us */

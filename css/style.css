@@ -1,16 +1,10 @@
+
 /* List CSS */
 .mb-1 {
   margin-bottom: 1rem !important;
 }
-.putih {
-  color: white;
-  text-decoration: none;
-}
 .lh-40 {
   line-height: 40px;
-}
-.mb-1 {
-  margin-bottom: 1rem !important;
 }
 .font-30 {
   font-size: 30px !important;
@@ -32,9 +26,6 @@
 .lh-30 {
   line-height: 30px;
 }
-.mb-1 {
-  margin-bottom: 1rem !important;
-}
 .bold {
   font-weight: bold;
 }
@@ -48,9 +39,6 @@
   color: #0033a0 !important;
   margin-top: 20px;
 }
-.mb-1 {
-  margin-bottom: 1rem !important;
-}
 .font-18 {
   font-size: 18px !important;
 }
@@ -58,19 +46,11 @@
 ul {
   list-style-type: disc;
 }
-.font-18 {
-  font-size: 18px !important;
-}
 
 .set-margin {
   margin-left: 200px;
   margin-right: 0px;
   margin-top: 200px;
-}
-
-.set-padding {
-  padding-left: 0px;
-  padding-right: 0px;
 }
 
 .tablle-core {
@@ -95,12 +75,9 @@ ul {
   font-weight: 500;
 }
 
-.font-18 {
-  font-size: 18px !important;
-}
-
 .putih {
   color: #fff;
+  text-decoration: none;
   text-align: center;
 }
 .grid {
@@ -111,8 +88,14 @@ ul {
   grid-gap: 30px;
 }
 
+<<<<<<< HEAD
 /* start contact us */
 .container {
+=======
+
+/* start contact us */
+.container-contact-us {
+>>>>>>> 47750d3952227374a01a8aaba875ca7e7990b2b9
     max-width: 400px;
     margin: 6em auto;
     padding: 20px;

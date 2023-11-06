@@ -1,0 +1,127 @@
+/* awal banner */
+
+.warnatulisan {
+  color: #0033a0;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 40px;
+}
+.back {
+  background: -webkit-linear-gradient(
+    90deg,
+    hsla(252, 40%, 29%, 1) 0%,
+    hsla(270, 77%, 71%, 1) 100%
+  );
+}
+
+.warn1 {
+  border-bottom: 2.5px solid white;
+  padding: 10px;
+}
+.warn2 {
+  border-bottom: 2.5px solid white;
+  padding: 10px;
+}
+.warn3 {
+  border-bottom: 2.5px solid white;
+  padding: 10px;
+}
+.warn4 {
+  border-bottom: 2.5px solid white;
+  padding: 10px;
+}
+.text1 {
+  color: white;
+  line-height: 20px;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 35px;
+}
+.kampus {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 35px;
+  font-size: 12px;
+}
+.tanggal {
+  color: #ccc;
+  margin-top: 65px;
+  margin-left: 35px;
+  padding: 5px;
+  font-size: 12px;
+}
+
+.text2 {
+  color: white;
+  line-height: 20px;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 35px;
+}
+.kampus2 {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 35px;
+  font-size: 12px;
+}
+.tanggal2 {
+  color: #ccc;
+  margin-top: 15px;
+  margin-left: 35px;
+  padding: 5px;
+  font-size: 12px;
+}
+.readmore2 {
+  color: #ccc;
+  margin-top: 10px;
+  margin-left: 40px;
+  font-size: 10px;
+  height: 100px;
+}
+.text3 {
+  color: white;
+  line-height: 20px;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 35px;
+}
+.kampus3 {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 35px;
+  font-size: 12px;
+}
+.tanggal3 {
+  color: #ccc;
+  margin-top: -1px;
+  margin-left: 35px;
+  padding: 5px;
+  font-size: 12px;
+}
+
+.text4 {
+  color: white;
+  line-height: 20px;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 35px;
+}
+.kampus4 {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 35px;
+  font-size: 12px;
+}
+.tanggal4 {
+  color: #ccc;
+  margin-top: 20px;
+  margin-left: 35px;
+  padding: 5px;
+  font-size: 12px;
+}
+
+/* akhir banner */

@@ -1,0 +1,112 @@
+/* List CSS */
+.mb-1 {
+  margin-bottom: 1rem !important;
+}
+.putih {
+  color: white;
+  text-decoration: none;
+}
+.lh-40 {
+  line-height: 40px;
+}
+.mb-1 {
+  margin-bottom: 1rem !important;
+}
+.font-30 {
+  font-size: 30px !important;
+}
+.set-section {
+  padding: 30px 0px;
+}
+.mt-3 {
+  margin-top: 1rem !important;
+}
+.set-margin7 {
+  margin-left: -7px;
+  margin-right: -7px;
+}
+.flex-center {
+  display: flex !important;
+  justify-content: center !important;
+}
+.lh-30 {
+  line-height: 30px;
+}
+.mb-1 {
+  margin-bottom: 1rem !important;
+}
+.bold {
+  font-weight: bold;
+}
+.font-core {
+  color: #0033a0 !important;
+}
+.font-24 {
+  font-size: 24px;
+}
+.font-core {
+  color: #0033a0 !important;
+  margin-top: 20px;
+}
+.mb-1 {
+  margin-bottom: 1rem !important;
+}
+.font-18 {
+  font-size: 18px !important;
+}
+
+ul {
+  list-style-type: disc;
+}
+.font-18 {
+  font-size: 18px !important;
+}
+
+.set-margin {
+  margin-left: 200px;
+  margin-right: 0px;
+  margin-top: 200px;
+}
+
+.set-padding {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.tablle-core {
+  color: #0033a0;
+}
+.bg-core {
+  background-color: #0033a0;
+  border-radius: 200px;
+  border-color: black;
+}
+
+.set-padding {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 200px;
+}
+.pd-10f {
+  padding: 5px 10px;
+}
+
+.fw500 {
+  font-weight: 500;
+}
+
+.font-18 {
+  font-size: 18px !important;
+}
+
+.putih {
+  color: #fff;
+  text-align: center;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 100px;
+  align-items: center;
+  grid-gap: 30px;
+}

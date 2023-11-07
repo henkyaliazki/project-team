@@ -156,15 +156,19 @@
 .bold {
   font-weight: bold;
 }
-.font-core {
-  color: #0033a0 !important;
-}
+
 .font-24 {
   font-size: 24px;
 }
 .font-core {
+  list-style: none;
   color: #0033a0 !important;
   margin-top: 20px;
+}
+
+.text-dec{
+  text-decoration: none;
+  color: blueviolet;
 }
 .font-18 {
   font-size: 18px !important;

@@ -125,3 +125,143 @@
 }
 
 /* akhir banner */
+
+/* List CSS */
+.mb-1 {
+  margin-bottom: 1rem !important;
+}
+.lh-40 {
+  line-height: 40px;
+}
+.font-30 {
+  font-size: 30px !important;
+}
+.set-section {
+  padding: 30px 0px;
+}
+.mt-3 {
+  margin-top: 1rem !important;
+}
+.set-margin7 {
+  margin-left: -7px;
+  margin-right: -7px;
+}
+.flex-center {
+  display: flex !important;
+  justify-content: center !important;
+}
+.lh-30 {
+  line-height: 30px;
+}
+.bold {
+  font-weight: bold;
+}
+.font-core {
+  color: #0033a0 !important;
+}
+.font-24 {
+  font-size: 24px;
+}
+.font-core {
+  color: #0033a0 !important;
+  margin-top: 20px;
+}
+.font-18 {
+  font-size: 18px !important;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+.set-margin {
+  margin-left: 200px;
+  margin-right: 0px;
+  margin-top: 200px;
+}
+
+.tablle-core {
+  color: #0033a0;
+}
+.bg-core {
+  background-color: #0033a0;
+  border-radius: 200px;
+  border-color: black;
+}
+
+.set-padding {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 200px;
+}
+.pd-10f {
+  padding: 5px 10px;
+}
+
+.fw500 {
+  font-weight: 500;
+}
+
+.putih {
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 100px;
+  align-items: center;
+  grid-gap: 30px;
+}
+
+
+
+/* start contact us */
+.container-contact-us {
+    max-width: 400px;
+    margin: 6em auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+/* end contact us */

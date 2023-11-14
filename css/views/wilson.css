@@ -2,53 +2,53 @@
 
 /* Mengatur margin dan padding secara global */
 body {
-    background-color: bisque;
-  }
-  html {
-    margin: 0;
-    padding: 0;
-  }
-  
-  /* Mengatur gaya font default */
-  body {
-    font-family: Arial, sans-serif;
-    margin: 300px;
-    margin-left: 550px;
-  }
-  
-  /* Mengatur tata letak dan warna latar belakang header */
-  .font-18 {
-    font-size: 18px;
-  }
-  
-  .pd-10f {
-    padding: 100px;
-  }
-  
-  .bg-core {
-    background-color: #e01313; /* Ganti dengan warna latar belakang yang diinginkan */
-    color: #ffffff7e; /* Ganti dengan warna teks yang diinginkan */
-  }
-  
-  .bg-core-soft {
-    background-color: #d31616; /* Ganti dengan warna latar belakang yang diinginkan */
-  }
-  
-  /* Mengatur gaya font dan padding untuk daftar */
-  .font-core {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  .font-core li {
-    margin: 5px 0;
-  }
-  
-  .font-core a {
-    color: #d20d0d; /* Ganti dengan warna teks yang diinginkan */
-    text-decoration: none;
-  }
-  
-  .font-core a:hover {
-    text-decoration: underline;
-  }
+  background-color: bisque;
+}
+html {
+  margin: 0;
+  padding: 0;
+}
+
+/* Mengatur gaya font default */
+body {
+  font-family: Arial, sans-serif;
+  margin: 300px;
+  margin-left: 550px;
+}
+
+/* Mengatur tata letak dan warna latar belakang header */
+.font-18 {
+  font-size: 18px;
+}
+
+.pd-10f {
+  padding: 100px;
+}
+
+.bg-core {
+  background-color: #e01313; /* Ganti dengan warna latar belakang yang diinginkan */
+  color: #ffffff7e; /* Ganti dengan warna teks yang diinginkan */
+}
+
+.bg-core-soft {
+  background-color: #d31616; /* Ganti dengan warna latar belakang yang diinginkan */
+}
+
+/* Mengatur gaya font dan padding untuk daftar */
+.font-core {
+  list-style-type: none;
+  padding: 0;
+}
+
+.font-core li {
+  margin: 5px 0;
+}
+
+.font-core a {
+  color: #d20d0d; /* Ganti dengan warna teks yang diinginkan */
+  text-decoration: none;
+}
+
+.font-core a:hover {
+  text-decoration: underline;
+}
